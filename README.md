@@ -60,3 +60,7 @@ nomad job plan demo.nomad
 ```bash
 nomad job run demo.nomad
 ```
+
+# Web
+
+[localhost:4646/ui](http://localhost:4646/ui)
